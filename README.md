@@ -10,7 +10,7 @@
 
 
 ## 🌐 Связь:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/grekichan#5870) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/https://www.linkedin.com/in/nikitas-rampotiagkov-378977270](https://www.linkedin.com/in/nikitas-rampotiagkov-378977270?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BZxri0B%2FETEOqaBtBL1FPwQ%3D%3D)) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/grekichan#5870) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikitas-rampo/)) 
 
 ![](https://github.com/grekudze/grekudze/blob/https/github.com/grekudze/README.md/giphy%20(1).gif)
 ![](https://github.com/grekudze/grekudze/blob/https/github.com/grekudze/README.md/giphy%20(1).gif)
