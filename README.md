@@ -9,11 +9,12 @@
 
 
 
+## 🌐 Связь:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/grekichan#5870) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nikitas-rampotiagkov-378977270) 
 
-
-
-![](https://github.com/grekudze/grekudze/blob/https/github.com/grekudze/README.md/giphy.gif)
-![](https://github.com/grekudze/grekudze/blob/https/github.com/grekudze/README.md/giphy.gif)
+![](https://github.com/grekudze/grekudze/blob/https/github.com/grekudze/README.md/giphy%20(1).gif)
+![](https://github.com/grekudze/grekudze/blob/https/github.com/grekudze/README.md/giphy%20(1).gif)
+![](https://github.com/grekudze/grekudze/blob/https/github.com/grekudze/README.md/giphy%20(1).gif)
 
 
 ![ ](https://komarev.com/ghpvc/?username=grekudze&label=Profile%20views&color=0e75b6&style=flat)
